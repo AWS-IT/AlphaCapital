@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#11223d"/>
+      <stop offset="100%" stop-color="#0a162a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#g)"/>
+  <text x="800" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="48" fill="#c9a86a" letter-spacing="6">ALPHA CAPITAL</text>
+  <text x="800" y="560" text-anchor="middle" font-family="Arial" font-size="20" fill="#9aaccb">Премиальная недвижимость</text>
+</svg>
