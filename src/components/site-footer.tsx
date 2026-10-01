@@ -28,7 +28,7 @@ export function SiteFooter() {
             <Logo className="h-10 w-10" />
             <div className="leading-tight">
               <div className="font-display text-2xl">
-                Alpha <span className="gold-text">Capital</span>
+                Lam <span className="gold-text">Capital</span>
               </div>
               <div className="text-[11px] uppercase tracking-[0.3em] text-white/45">
                 Premium real estate · {siteConfig.city}

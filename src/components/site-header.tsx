@@ -59,7 +59,7 @@ export function SiteHeader() {
             <Logo className="h-9 w-9 transition-transform group-hover:scale-105" />
             <span className="flex flex-col leading-tight">
               <span className="font-display text-[22px] tracking-wide">
-                Alpha <span className="gold-text">Capital</span>
+                Lam <span className="gold-text">Capital</span>
               </span>
               <span className="text-[10px] uppercase tracking-[0.32em] text-white/55">
                 {siteConfig.city} · недвижимость

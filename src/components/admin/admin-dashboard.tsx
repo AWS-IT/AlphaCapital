@@ -195,7 +195,7 @@ export function AdminDashboard({ objects, initialOverrides }: Props) {
             <Logo className="h-9 w-9" />
             <div className="leading-tight">
               <div className="font-display text-xl text-white">
-                Alpha <span className="gold-text">Admin</span>
+                Lam <span className="gold-text">Admin</span>
               </div>
               <div className="text-[10px] uppercase tracking-[0.32em] text-white/45">
                 Управление контентом

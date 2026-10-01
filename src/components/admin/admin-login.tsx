@@ -53,7 +53,7 @@ export function AdminLogin() {
           <Logo className="h-12 w-12" />
           <span className="label-eyebrow mt-5">Админ-панель</span>
           <h1 className="mt-3 font-display text-3xl text-white">
-            Alpha Capital
+            Lam Capital
           </h1>
           <p className="mt-2 text-sm text-white/55">
             Войдите, чтобы управлять горячими предложениями.
