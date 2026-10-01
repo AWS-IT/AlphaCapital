@@ -1,13 +1,13 @@
 export const siteConfig = {
-  name: "Alpha Capital",
-  legalName: "Alpha Capital",
+  name: "Lam Capital",
+  legalName: "Lam Capital",
   tagline: "Премиальная недвижимость Грозного",
   description:
     "Закрытый клуб премиальной недвижимости Грозного: новостройки от первой линии застройщиков, частные просмотры и сопровождение сделки.",
   city: "Грозный",
   phone: "+7 (000) 000-00-00",
   phoneRaw: "+70000000000",
-  email: "info@alphacapital.ru",
+  email: "info@lamcapital.ru",
   address: "г. Грозный, проспект В.В. Путина",
   workingHours: "Ежедневно, 9:00 — 21:00",
   socials: {
